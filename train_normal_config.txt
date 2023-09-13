@@ -1,0 +1,6 @@
+PATH/ECA-TFUnet/dataset/
+NONE
+4
+0.01
+120
+trans_cam
