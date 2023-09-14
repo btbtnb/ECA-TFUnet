@@ -1,2 +1,3 @@
-If you want to train, run this code below：
+#If you want to train, run this code below：
+
 pyhton train_normal.py
